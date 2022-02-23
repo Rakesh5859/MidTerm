@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rakesh_Gundu_MT", "Rakesh_Gundu_MT\Rakesh_Gundu_MT.csproj", "{701F39C2-A4BD-43B4-B3CA-30273D5FB80A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteConversion.Tests", "ByteConversion.Tests\ByteConversion.Tests.csproj", "{3311209D-1670-481A-BC47-FFE8A5DCE3EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{701F39C2-A4BD-43B4-B3CA-30273D5FB80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{701F39C2-A4BD-43B4-B3CA-30273D5FB80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{701F39C2-A4BD-43B4-B3CA-30273D5FB80A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3311209D-1670-481A-BC47-FFE8A5DCE3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3311209D-1670-481A-BC47-FFE8A5DCE3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3311209D-1670-481A-BC47-FFE8A5DCE3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3311209D-1670-481A-BC47-FFE8A5DCE3EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
