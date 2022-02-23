@@ -1,0 +1,8 @@
+C:\Users\jaswa\source\repos\Rakesh_Gundu_MT\Rakesh_Gundu_MT\bin\Debug\Rakesh_Gundu_MT.exe.config
+C:\Users\jaswa\source\repos\Rakesh_Gundu_MT\Rakesh_Gundu_MT\bin\Debug\Rakesh_Gundu_MT.exe
+C:\Users\jaswa\source\repos\Rakesh_Gundu_MT\Rakesh_Gundu_MT\bin\Debug\Rakesh_Gundu_MT.pdb
+C:\Users\jaswa\source\repos\Rakesh_Gundu_MT\Rakesh_Gundu_MT\obj\Debug\Rakesh_Gundu_MT.csproj.AssemblyReference.cache
+C:\Users\jaswa\source\repos\Rakesh_Gundu_MT\Rakesh_Gundu_MT\obj\Debug\Rakesh_Gundu_MT.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaswa\source\repos\Rakesh_Gundu_MT\Rakesh_Gundu_MT\obj\Debug\Rakesh_Gundu_MT.csproj.CoreCompileInputs.cache
+C:\Users\jaswa\source\repos\Rakesh_Gundu_MT\Rakesh_Gundu_MT\obj\Debug\Rakesh_Gundu_MT.exe
+C:\Users\jaswa\source\repos\Rakesh_Gundu_MT\Rakesh_Gundu_MT\obj\Debug\Rakesh_Gundu_MT.pdb
